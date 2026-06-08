@@ -1,0 +1,10 @@
+GREEN LANTERN CORPS AEWMS REPORT
+    Generated on: 2026-06-08 20:30:44
+    ======================================
+    Total Items: 1       
+    Total Weight Collected: 1.0 kg
+    Total Recycling Fees: LKR 120.00
+    Processed Items: 0
+    Current Storage Capacity: 4000 kg
+    ======================================
+    
